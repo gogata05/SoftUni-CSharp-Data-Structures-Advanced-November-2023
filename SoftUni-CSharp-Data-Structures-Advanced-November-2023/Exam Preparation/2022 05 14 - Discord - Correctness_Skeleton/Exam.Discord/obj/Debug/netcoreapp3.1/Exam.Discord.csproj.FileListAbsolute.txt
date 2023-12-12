@@ -1,0 +1,13 @@
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.Discord\bin\Debug\netcoreapp3.1\Exam.Discord.exe
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.Discord\bin\Debug\netcoreapp3.1\Exam.Discord.deps.json
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.Discord\bin\Debug\netcoreapp3.1\Exam.Discord.runtimeconfig.json
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.Discord\bin\Debug\netcoreapp3.1\Exam.Discord.runtimeconfig.dev.json
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.Discord\bin\Debug\netcoreapp3.1\Exam.Discord.dll
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.Discord\bin\Debug\netcoreapp3.1\Exam.Discord.pdb
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.Discord\obj\Debug\netcoreapp3.1\Exam.Discord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.Discord\obj\Debug\netcoreapp3.1\Exam.Discord.AssemblyInfoInputs.cache
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.Discord\obj\Debug\netcoreapp3.1\Exam.Discord.AssemblyInfo.cs
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.Discord\obj\Debug\netcoreapp3.1\Exam.Discord.csproj.CoreCompileInputs.cache
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.Discord\obj\Debug\netcoreapp3.1\Exam.Discord.dll
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.Discord\obj\Debug\netcoreapp3.1\Exam.Discord.pdb
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.Discord\obj\Debug\netcoreapp3.1\Exam.Discord.genruntimeconfig.cache

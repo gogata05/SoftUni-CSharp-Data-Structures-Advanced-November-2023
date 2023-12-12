@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YfkPqmAPYyv+0V4RynYSE7iGZa4IWiaNqt4KEJkSJ3XM8p8UFW/8wpP+r2lsrIWZgoyKOXm4Rw9efD5x/BhuwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gogat\\Music\\C#DS skelets\\2023 02 05 - Expression Passion - Correctness\\Exam.Expressionist\\Exam.Expressionist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

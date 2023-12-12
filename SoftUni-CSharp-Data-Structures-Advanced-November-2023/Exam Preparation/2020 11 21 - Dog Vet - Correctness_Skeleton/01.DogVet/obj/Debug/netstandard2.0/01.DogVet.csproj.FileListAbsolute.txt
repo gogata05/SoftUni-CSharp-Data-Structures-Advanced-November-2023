@@ -1,0 +1,10 @@
+C:\Users\gogat\Music\C#DS skelets\2020 11 21 - Dog Vet - Correctness_Skeleton\01.DogVet\bin\Debug\netstandard2.0\01.DogVet.deps.json
+C:\Users\gogat\Music\C#DS skelets\2020 11 21 - Dog Vet - Correctness_Skeleton\01.DogVet\bin\Debug\netstandard2.0\01.DogVet.dll
+C:\Users\gogat\Music\C#DS skelets\2020 11 21 - Dog Vet - Correctness_Skeleton\01.DogVet\bin\Debug\netstandard2.0\01.DogVet.pdb
+C:\Users\gogat\Music\C#DS skelets\2020 11 21 - Dog Vet - Correctness_Skeleton\01.DogVet\obj\Debug\netstandard2.0\01.DogVet.csproj.AssemblyReference.cache
+C:\Users\gogat\Music\C#DS skelets\2020 11 21 - Dog Vet - Correctness_Skeleton\01.DogVet\obj\Debug\netstandard2.0\01.DogVet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\Music\C#DS skelets\2020 11 21 - Dog Vet - Correctness_Skeleton\01.DogVet\obj\Debug\netstandard2.0\01.DogVet.AssemblyInfoInputs.cache
+C:\Users\gogat\Music\C#DS skelets\2020 11 21 - Dog Vet - Correctness_Skeleton\01.DogVet\obj\Debug\netstandard2.0\01.DogVet.AssemblyInfo.cs
+C:\Users\gogat\Music\C#DS skelets\2020 11 21 - Dog Vet - Correctness_Skeleton\01.DogVet\obj\Debug\netstandard2.0\01.DogVet.csproj.CoreCompileInputs.cache
+C:\Users\gogat\Music\C#DS skelets\2020 11 21 - Dog Vet - Correctness_Skeleton\01.DogVet\obj\Debug\netstandard2.0\01.DogVet.dll
+C:\Users\gogat\Music\C#DS skelets\2020 11 21 - Dog Vet - Correctness_Skeleton\01.DogVet\obj\Debug\netstandard2.0\01.DogVet.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vJR2dCPybJs40ceBZowPdHMouXwAUknKvujlsTfltdY1gGwb05jjnHZpMLl9hh1sLQ/cNv3HE780/u7X8tp1hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gogat\\Music\\C#DS skelets\\2021 09 19 - RePlay - Correctness_Skeleton\\Exam.RePlay\\Exam.RePlay.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\gogat\Music\Skeleton\Kubernetes\Kubernetes\bin\Debug\netcoreapp3.1\Kubernetes.exe
+C:\Users\gogat\Music\Skeleton\Kubernetes\Kubernetes\bin\Debug\netcoreapp3.1\Kubernetes.deps.json
+C:\Users\gogat\Music\Skeleton\Kubernetes\Kubernetes\bin\Debug\netcoreapp3.1\Kubernetes.runtimeconfig.json
+C:\Users\gogat\Music\Skeleton\Kubernetes\Kubernetes\bin\Debug\netcoreapp3.1\Kubernetes.runtimeconfig.dev.json
+C:\Users\gogat\Music\Skeleton\Kubernetes\Kubernetes\bin\Debug\netcoreapp3.1\Kubernetes.dll
+C:\Users\gogat\Music\Skeleton\Kubernetes\Kubernetes\bin\Debug\netcoreapp3.1\Kubernetes.pdb
+C:\Users\gogat\Music\Skeleton\Kubernetes\Kubernetes\obj\Debug\netcoreapp3.1\Kubernetes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\Music\Skeleton\Kubernetes\Kubernetes\obj\Debug\netcoreapp3.1\Kubernetes.AssemblyInfoInputs.cache
+C:\Users\gogat\Music\Skeleton\Kubernetes\Kubernetes\obj\Debug\netcoreapp3.1\Kubernetes.AssemblyInfo.cs
+C:\Users\gogat\Music\Skeleton\Kubernetes\Kubernetes\obj\Debug\netcoreapp3.1\Kubernetes.csproj.CoreCompileInputs.cache
+C:\Users\gogat\Music\Skeleton\Kubernetes\Kubernetes\obj\Debug\netcoreapp3.1\Kubernetes.dll
+C:\Users\gogat\Music\Skeleton\Kubernetes\Kubernetes\obj\Debug\netcoreapp3.1\Kubernetes.pdb
+C:\Users\gogat\Music\Skeleton\Kubernetes\Kubernetes\obj\Debug\netcoreapp3.1\Kubernetes.genruntimeconfig.cache

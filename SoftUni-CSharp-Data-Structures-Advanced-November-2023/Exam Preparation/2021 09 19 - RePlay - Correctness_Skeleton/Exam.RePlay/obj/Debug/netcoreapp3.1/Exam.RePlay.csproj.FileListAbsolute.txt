@@ -1,0 +1,13 @@
+C:\Users\gogat\Music\C#DS skelets\2021 09 19 - RePlay - Correctness_Skeleton\Exam.RePlay\bin\Debug\netcoreapp3.1\Exam.RePlay.exe
+C:\Users\gogat\Music\C#DS skelets\2021 09 19 - RePlay - Correctness_Skeleton\Exam.RePlay\bin\Debug\netcoreapp3.1\Exam.RePlay.deps.json
+C:\Users\gogat\Music\C#DS skelets\2021 09 19 - RePlay - Correctness_Skeleton\Exam.RePlay\bin\Debug\netcoreapp3.1\Exam.RePlay.runtimeconfig.json
+C:\Users\gogat\Music\C#DS skelets\2021 09 19 - RePlay - Correctness_Skeleton\Exam.RePlay\bin\Debug\netcoreapp3.1\Exam.RePlay.runtimeconfig.dev.json
+C:\Users\gogat\Music\C#DS skelets\2021 09 19 - RePlay - Correctness_Skeleton\Exam.RePlay\bin\Debug\netcoreapp3.1\Exam.RePlay.dll
+C:\Users\gogat\Music\C#DS skelets\2021 09 19 - RePlay - Correctness_Skeleton\Exam.RePlay\bin\Debug\netcoreapp3.1\Exam.RePlay.pdb
+C:\Users\gogat\Music\C#DS skelets\2021 09 19 - RePlay - Correctness_Skeleton\Exam.RePlay\obj\Debug\netcoreapp3.1\Exam.RePlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\Music\C#DS skelets\2021 09 19 - RePlay - Correctness_Skeleton\Exam.RePlay\obj\Debug\netcoreapp3.1\Exam.RePlay.AssemblyInfoInputs.cache
+C:\Users\gogat\Music\C#DS skelets\2021 09 19 - RePlay - Correctness_Skeleton\Exam.RePlay\obj\Debug\netcoreapp3.1\Exam.RePlay.AssemblyInfo.cs
+C:\Users\gogat\Music\C#DS skelets\2021 09 19 - RePlay - Correctness_Skeleton\Exam.RePlay\obj\Debug\netcoreapp3.1\Exam.RePlay.csproj.CoreCompileInputs.cache
+C:\Users\gogat\Music\C#DS skelets\2021 09 19 - RePlay - Correctness_Skeleton\Exam.RePlay\obj\Debug\netcoreapp3.1\Exam.RePlay.dll
+C:\Users\gogat\Music\C#DS skelets\2021 09 19 - RePlay - Correctness_Skeleton\Exam.RePlay\obj\Debug\netcoreapp3.1\Exam.RePlay.pdb
+C:\Users\gogat\Music\C#DS skelets\2021 09 19 - RePlay - Correctness_Skeleton\Exam.RePlay\obj\Debug\netcoreapp3.1\Exam.RePlay.genruntimeconfig.cache

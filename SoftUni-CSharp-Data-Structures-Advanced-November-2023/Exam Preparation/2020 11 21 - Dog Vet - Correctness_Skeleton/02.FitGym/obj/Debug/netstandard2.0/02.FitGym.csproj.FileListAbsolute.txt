@@ -1,0 +1,10 @@
+C:\Users\gogat\Music\C#DS skelets\2020 11 21 - Dog Vet - Correctness_Skeleton\02.FitGym\bin\Debug\netstandard2.0\02.FitGym.deps.json
+C:\Users\gogat\Music\C#DS skelets\2020 11 21 - Dog Vet - Correctness_Skeleton\02.FitGym\bin\Debug\netstandard2.0\02.FitGym.dll
+C:\Users\gogat\Music\C#DS skelets\2020 11 21 - Dog Vet - Correctness_Skeleton\02.FitGym\bin\Debug\netstandard2.0\02.FitGym.pdb
+C:\Users\gogat\Music\C#DS skelets\2020 11 21 - Dog Vet - Correctness_Skeleton\02.FitGym\obj\Debug\netstandard2.0\02.FitGym.csproj.AssemblyReference.cache
+C:\Users\gogat\Music\C#DS skelets\2020 11 21 - Dog Vet - Correctness_Skeleton\02.FitGym\obj\Debug\netstandard2.0\02.FitGym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\Music\C#DS skelets\2020 11 21 - Dog Vet - Correctness_Skeleton\02.FitGym\obj\Debug\netstandard2.0\02.FitGym.AssemblyInfoInputs.cache
+C:\Users\gogat\Music\C#DS skelets\2020 11 21 - Dog Vet - Correctness_Skeleton\02.FitGym\obj\Debug\netstandard2.0\02.FitGym.AssemblyInfo.cs
+C:\Users\gogat\Music\C#DS skelets\2020 11 21 - Dog Vet - Correctness_Skeleton\02.FitGym\obj\Debug\netstandard2.0\02.FitGym.csproj.CoreCompileInputs.cache
+C:\Users\gogat\Music\C#DS skelets\2020 11 21 - Dog Vet - Correctness_Skeleton\02.FitGym\obj\Debug\netstandard2.0\02.FitGym.dll
+C:\Users\gogat\Music\C#DS skelets\2020 11 21 - Dog Vet - Correctness_Skeleton\02.FitGym\obj\Debug\netstandard2.0\02.FitGym.pdb

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Kubernetes.Tests
+build_property.ProjectDir = C:\Users\gogat\Music\Skeleton\Kubernetes\Kubernetes.Tests\

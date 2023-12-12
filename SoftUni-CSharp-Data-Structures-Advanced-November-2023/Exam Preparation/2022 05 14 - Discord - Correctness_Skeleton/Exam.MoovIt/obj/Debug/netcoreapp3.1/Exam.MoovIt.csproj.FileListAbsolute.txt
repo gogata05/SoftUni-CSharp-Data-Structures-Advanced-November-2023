@@ -1,0 +1,13 @@
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.MoovIt\bin\Debug\netcoreapp3.1\Exam.MoovIt.exe
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.MoovIt\bin\Debug\netcoreapp3.1\Exam.MoovIt.deps.json
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.MoovIt\bin\Debug\netcoreapp3.1\Exam.MoovIt.runtimeconfig.json
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.MoovIt\bin\Debug\netcoreapp3.1\Exam.MoovIt.runtimeconfig.dev.json
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.MoovIt\bin\Debug\netcoreapp3.1\Exam.MoovIt.dll
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.MoovIt\bin\Debug\netcoreapp3.1\Exam.MoovIt.pdb
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.MoovIt\obj\Debug\netcoreapp3.1\Exam.MoovIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.MoovIt\obj\Debug\netcoreapp3.1\Exam.MoovIt.AssemblyInfoInputs.cache
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.MoovIt\obj\Debug\netcoreapp3.1\Exam.MoovIt.AssemblyInfo.cs
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.MoovIt\obj\Debug\netcoreapp3.1\Exam.MoovIt.csproj.CoreCompileInputs.cache
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.MoovIt\obj\Debug\netcoreapp3.1\Exam.MoovIt.dll
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.MoovIt\obj\Debug\netcoreapp3.1\Exam.MoovIt.pdb
+C:\Users\gogat\Music\C#DS skelets\2022 05 14 - Discord - Correctness_Skeleton\Exam.MoovIt\obj\Debug\netcoreapp3.1\Exam.MoovIt.genruntimeconfig.cache

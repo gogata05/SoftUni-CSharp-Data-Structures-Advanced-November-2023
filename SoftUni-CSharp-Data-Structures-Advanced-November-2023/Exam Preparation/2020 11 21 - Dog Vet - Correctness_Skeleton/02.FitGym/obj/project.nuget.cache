@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uEA9l9aTiWhApEuxFV58ZYNcHWRN1TsDmdPClWW/iZpD42UA4/7vIqoxhlpsxNlz8Q86sjv4o/12vCAlKZcldw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gogat\\Music\\C#DS skelets\\2020 11 21 - Dog Vet - Correctness_Skeleton\\02.FitGym\\02.FitGym.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gogat\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

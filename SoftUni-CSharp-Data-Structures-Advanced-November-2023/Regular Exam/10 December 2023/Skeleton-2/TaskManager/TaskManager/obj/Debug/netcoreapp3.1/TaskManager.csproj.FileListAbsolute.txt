@@ -1,0 +1,13 @@
+C:\Users\gogat\Music\New folder\Skeleton\TaskManager\TaskManager\bin\Debug\netcoreapp3.1\TaskManager.exe
+C:\Users\gogat\Music\New folder\Skeleton\TaskManager\TaskManager\bin\Debug\netcoreapp3.1\TaskManager.deps.json
+C:\Users\gogat\Music\New folder\Skeleton\TaskManager\TaskManager\bin\Debug\netcoreapp3.1\TaskManager.runtimeconfig.json
+C:\Users\gogat\Music\New folder\Skeleton\TaskManager\TaskManager\bin\Debug\netcoreapp3.1\TaskManager.runtimeconfig.dev.json
+C:\Users\gogat\Music\New folder\Skeleton\TaskManager\TaskManager\bin\Debug\netcoreapp3.1\TaskManager.dll
+C:\Users\gogat\Music\New folder\Skeleton\TaskManager\TaskManager\bin\Debug\netcoreapp3.1\TaskManager.pdb
+C:\Users\gogat\Music\New folder\Skeleton\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\Music\New folder\Skeleton\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\TaskManager.AssemblyInfoInputs.cache
+C:\Users\gogat\Music\New folder\Skeleton\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\TaskManager.AssemblyInfo.cs
+C:\Users\gogat\Music\New folder\Skeleton\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\gogat\Music\New folder\Skeleton\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\TaskManager.dll
+C:\Users\gogat\Music\New folder\Skeleton\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\TaskManager.pdb
+C:\Users\gogat\Music\New folder\Skeleton\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\TaskManager.genruntimeconfig.cache
