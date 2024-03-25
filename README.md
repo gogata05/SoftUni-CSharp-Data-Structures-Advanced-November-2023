@@ -5,7 +5,7 @@
 ### 🎓 Course Link - [Here](https://softuni.bg/trainings/4273/data-structures-advanced-with-csharp-november-2023)
 
 Welcome to the C# Data Structures repository! This repository contains implementations and examples of various data structures in C#. By exploring this repository, you'll gain valuable knowledge and skills related to data structures.
-
+ 
 #### Skills You Will Gain
 
 - Implementation of balanced trees
